@@ -21,9 +21,9 @@ body {
     font-weight: bold;
   }
 
-  li a:hover {
+  /* li a:hover {
     background-color: #111;
-  }
+  } */
 
   img {
     border: 1px solid #111;
